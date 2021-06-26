@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<head lang="en">
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width,initial -scale=1.0"> 
+</head>
+<body bgcolor="sky blue">
+   <!--start header-->
+     <table id="header" border="1" cellpadding="0" cellspacing="0" width="100%" bgcolor="#ffffe6">
+         <tr>
+            <td>
+                <table border="0" cellpadding="0" cellspacing="0"  align="center">
+                    <tr> 
+                      <td width="10%" >
+                         <div align="center">
+                           <img src="F:\html\rgpv.jpg" width="50%">
+                         </div>
+                       </td>
+                      <td width="50%" >
+                         <font color="black" face="algerian" size="6">
+                             <div align="center">
+                                   RAJEEV GANDHI PRODHAUGIKI VISHVAVIDHYALAY
+                                      <font color="black" face="serif" size="4">
+                                         <br>(State Technological University of Madhya Pradesh)</br>
+                                     </font>
+                             </div>
+                        </font>
+                       </td>
+                    </tr>
+                </table>
+           </td> 
+        </tr>
+    </table>
+   <!--end header-->
+     <!--header start-->
+         <table id="header" border="1" cellpadding="0" cellspacing="10px" width="100%" bgcolor="#e6e6e6">
+                       <tr>
+                          <td width="20%">
+                              <font color="#6666ff" face="italic" size="5">
+                               <div align="center">
+                                        POLYTECHNIC WING                             
+                               </div>
+                               </font>
+                          </td> 
+                       </tr>
+         </table>
+     <!--header end-->
+     <!--header start-->
+         <table id="header" border="0" cellpadding="0" cellspacing="10px" width="100%" bgcolor="white">
+                       <tr>
+                          <td width="20%">
+                              <font color="black" face="italic" size="5">
+                               <div align="center">
+                                    <marquee behavior="alternate" direction="right">
+                                        -:XYZ:-
+                                    </marquee>
+                                         <br>
+                                            <u>Academic Information</u>
+                                         </br>
+                               </div>
+                               </font>
+                          </td> 
+                       </tr>
+         </table>
+     <!--header end-->
+   <!--start header-->
+     <table id="header" border="0" cellpadding="0" cellspacing="50px" width="100%" bgcolor="black">
+       <tr>
+           <td>
+                       
+                 <form>
+                   <center>
+                       <font color="white">
+                           <table border="2">
+                             <tr> 
+                               <b>
+                                <th>ENROLLMENT NUMBER</th>
+                                <th>STUDENT NAME</th>
+                                <th>PHONE NUMBER</th>
+                                <th>YEAR /SEMESTER</th>
+                              </b> 
+                            </tr> 
+                            <tr>
+                               <td>123456</td>
+                               <td>XYZ</td>
+                               <td>*********</td>
+                               <td>XYZ</td>
+                             </tr> 
+                            </table>   
+                         </font>
+                  </center>
+              </form>
+          </td>
+        </tr>
+    </table>
+  <!--end header-->
+   <!--start header-->
+     <table id="header" border="0" cellpadding="0" cellspacing="50px" width="100%" bgcolor="black">
+       <tr>
+           <td>
+       <form>
+           <center>
+           <font color="white">
+           <table border="2">
+               <tr>
+               <b>
+                    <th>SESSION</th>
+                    <th>SEMESTER</th>
+                    <th>SGPA</th>
+                    <th>STATUS</th>
+                    <th>RESULT</th>
+                   
+               </b>
+               </tr> 
+               <tr>
+                   <td>XYZ</td>
+                   <td>*</td>
+                   <td>1234</td>
+                   <td>yefd</td>
+                   <td>oap</td>
+               </tr>  
+               <tr>
+                   <td>ydh</td>
+                   <td>*</td>
+                   <td>**</td>
+                   <td>yxz</td>
+                   <td>YXz</td>
+               </tr>  
+           </table>
+          </font>
+           </center>
+       </form>      
+             </td>
+         </tr>
+    </table>
+   <!--end header-->
+    <!--header start-->
+         <table id="header" border="0" cellpadding="0" cellspacing="10px" width="100%" bgcolor="white">
+                       <tr>
+                          <td>
+                              <font color="black" face="italic" size="3">
+                               <div align="center">
+                                         
+                                        <a href=""><button>home<button></a>
+                                        <br>
+                                          <a href="h"><button>back<button></a>
+                                        </br>
+                                    </div>
+                               </font>
+                          </td> 
+                       </tr>
+         </table>
+     <!--header end-->
+</body>
+</html>
